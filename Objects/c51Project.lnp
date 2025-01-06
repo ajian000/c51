@@ -1,0 +1,5 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\c51Project" 
+
+PRINT(".\Listings\c51Project.map")
